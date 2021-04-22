@@ -4,6 +4,4 @@ Ce bot contient les fonctions suivante :
 -message de départ/arrivée
 -commandes d'informations(statistique)
 -commandes de jeux/fun
-
-Fonction arrivant bientôt : 
 -logs : message supprimé , salon créer/supprimé , rôle  créer/supprimé , invitation créer/supprimé
