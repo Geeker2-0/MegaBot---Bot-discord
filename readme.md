@@ -5,3 +5,4 @@ Ce bot contient les fonctions suivante :
 -commandes d'informations(statistique)
 -commandes de jeux/fun
 -logs : message supprimé , salon créer/supprimé , rôle  créer/supprimé , invitation créer/supprimé
+Modules requis : discord.js , quick.db , fs.
